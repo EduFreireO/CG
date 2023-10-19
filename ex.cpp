@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 
+// g++ ex.cpp -lglut -lGL -lGLU
+
 void display(void);
 void keyboard(unsigned char key, int x, int y);
 void bico()
